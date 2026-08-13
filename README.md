@@ -15,8 +15,8 @@ This project takes two numbers from the user and performs four basic mathematica
 
 The calculator has two input boxes and four buttons for performing calculations.
 
-![Basic Calculator](<img width="1686" height="874" alt="Screenshot 2026-08-13 175047" src="https://github.com/user-attachments/assets/09b18f58-4f0a-4b12-81ab-5d50cd59853c" />
-)
+<img width="1686" height="874" alt="Screenshot 2026-08-13 175047" src="https://github.com/user-attachments/assets/6fe346ad-9b27-4dee-a1ae-2ea27addcbf9" />
+
 
 ### Example
 
