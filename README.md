@@ -15,7 +15,8 @@ This project takes two numbers from the user and performs four basic mathematica
 
 The calculator has two input boxes and four buttons for performing calculations.
 
-![Basic Calculator](85d74cdf-c19c-453d-abc6-0222077ff24d.png)
+![Basic Calculator](<img width="1686" height="874" alt="Screenshot 2026-08-13 175047" src="https://github.com/user-attachments/assets/09b18f58-4f0a-4b12-81ab-5d50cd59853c" />
+)
 
 ### Example
 
@@ -230,11 +231,6 @@ Result: 10
 B.Tech CSE — AI/ML
 
 ---
-
-screenShot--
-
-<img width="1686" height="874" alt="Screenshot 2026-08-13 175047" src="https://github.com/user-attachments/assets/2976ba49-d83b-4119-82d2-95bb6bffba06" />
-
 
 ## 📄 License
 
